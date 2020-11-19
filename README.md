@@ -1,7 +1,6 @@
 # blog
 （Rails prac）
 
-# Rails-Blog-Prac
 
 目前在win10上用虛擬機ubuntu跑起來沒什麼問題，不知道以後會不會有ruby版本管理問題，姑且用了RVM，但這個東西還沒有很了解玩到多少。
 
