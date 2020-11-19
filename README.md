@@ -22,7 +22,5 @@
 
 .
 
-.
-
 P.S. 憑直覺覺得重要的，順手記的東西，還沒整理，想說先找地方放。
 ![image](https://github.com/umbrella-h/blog/blob/main/messynotes_1118.jpg)
